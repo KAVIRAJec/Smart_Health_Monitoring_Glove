@@ -92,10 +92,6 @@ void setup() {
   display.setCursor(0, 10);        // position to display
 
 
-  
-
-
-
 // Initialize ThingSpeak
 }
 
