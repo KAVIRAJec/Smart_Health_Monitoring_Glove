@@ -213,10 +213,6 @@ void loop()
     else
     {   noTone(buzzer);}
   
-  
-  
-  
-
 }
   
 void oledDisplayCenter(String text) {
