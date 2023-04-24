@@ -11,6 +11,13 @@
 *  To develop a web page that displays all the parameters, if any of the parameter is abnormal, a message or call with be send to the respective doctor and patient.
 *  It would be uses as a medicine reminder ,so that the patient never forget to take medicine(tablet) on time.
 
+## Components Used:
+*  Esp32
+*  MAX30100 Pulse Oximeter
+*  Flex sensor
+*  Oled Display
+*  PCB Board
+
 ## Benefits:
 *  It reduces the time which we spend for regular check up.
 *  It would be used as a self monitoring gadget , from which we could note regular graphical data or day to day improvement from injury or bone fracture. 
