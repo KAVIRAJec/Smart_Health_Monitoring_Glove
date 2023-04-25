@@ -65,7 +65,6 @@ void setup() {
  
   Serial.begin(115200);
 
-
   WiFi.begin(ssid, password);
   Serial.println("Connecting");
   while(WiFi.status() != WL_CONNECTED) {
