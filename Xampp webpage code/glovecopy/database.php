@@ -11,4 +11,5 @@ echo "Database could not be connected: " . $e->getMessage();
 return $this->db;
 }
 }
+
 ?>
