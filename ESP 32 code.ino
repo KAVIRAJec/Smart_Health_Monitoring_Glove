@@ -22,6 +22,7 @@ int oxy;
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 const int flexPin = 36;      // Pin connected to voltage divider output
 
+
 // Change these constants according to your project's design
 const float VCC = 3.3;      // voltage at Ardunio 5V line
 const float R_DIV = 22000.0;  // resistor used to create a voltage divider
